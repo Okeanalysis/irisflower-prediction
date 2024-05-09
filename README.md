@@ -16,20 +16,28 @@ Logistic regression was chosen as the classification algorithm due to its simpli
 
 The accuracy of the trained model was found to be 100%, indicating that it can effectively differentiate between the three iris species based on their sepal and petal characteristics.
 
-Usage
+Usage:
+
 To use the trained model for prediction, simply input the sepal length, sepal width, petal length, and petal width of an iris flower into the provided interface. The model will then predict the species of the iris flower based on these input values.
 
-Repository Structure
+Repository Structure":
+
 iris: Contains the Iris dataset used for training and testing the model.
+
 Prediction of iris flower: Jupyter notebooks used for data exploration, model training, and evaluation.
 
-Getting Started
+Getting Started:
+
 To get started with this project, follow these steps:
 
 Clone this repository to your local machine.
+
 Navigate to the project directory.
+
 Install the required dependencies using pip install.
+
 Run the provided Jupyter notebooks to explore the data and train the model.
+
 Utilize the trained model for iris flower prediction using the provided interface.
 
 Dependencies

@@ -1,13 +1,17 @@
-Iris Flower Prediction
+Iris Flower Prediction:
+
 This project aims to predict the species of iris flowers based on their sepal and petal characteristics using machine learning techniques.
 
-Overview
+Overview:
+
 The Iris Flower Prediction project utilizes the famous Iris dataset, which contains samples of iris flowers belonging to three different species: Setosa, Versicolor, and Virginica. Each sample includes four features: sepal length, sepal width, petal length, and petal width. The goal is to train a machine learning model that accurately classifies iris flowers into their respective species based on these features.
 
-Data Exploration
+Data Exploration:
+
 The dataset used in this project contains no missing values (NaN or null), making it suitable for analysis and model training. Exploratory data analysis (EDA) was performed using matplotlib and seaborn libraries to visualize the distributions and relationships between different features.
 
-Model Training
+Model Training:
+
 Logistic regression was chosen as the classification algorithm due to its simplicity and effectiveness for binary and multiclass classification tasks. The scikit-learn library was utilized to train the logistic regression model on the iris dataset.
 
 The accuracy of the trained model was found to be 100%, indicating that it can effectively differentiate between the three iris species based on their sepal and petal characteristics.

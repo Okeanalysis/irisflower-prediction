@@ -22,9 +22,13 @@ To use the trained model for prediction, simply input the sepal length, sepal wi
 
 Repository Structure":
 
-iris: Contains the Iris dataset used for training and testing the model.
+iris.csv: Contains the Iris dataset used for training and testing the model.
 
 Prediction of iris flower: Jupyter notebooks used for data exploration, model training, and evaluation.
+
+iris.py: the python code that contains streamlit app
+
+
 
 Getting Started:
 

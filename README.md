@@ -42,11 +42,13 @@ Utilize the trained model for iris flower prediction using the provided interfac
 
 Dependencies
 Juypter notebook
+python
 NumPy
 Pandas
 Matplotlib
 Seaborn
 scikit-learn
+Streamlit
 
 
 Acknowledgments
